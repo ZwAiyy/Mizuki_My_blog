@@ -1,6 +1,6 @@
 ---
 title: "机器学习入门：从零开始的AI之旅"
-published: 2024-12-19
+published: 2025-12-19
 description: "机器学习是人工智能的核心技术之一。本文将带你了解机器学习的基本概念、常见算法和实际应用。"
 tags: ["机器学习", "AI", "Python", "数据科学"]
 category: AI & ML
@@ -72,6 +72,7 @@ predictions = clf.predict(X_test)
 ## 开始学习
 
 推荐学习路径：
+
 1. Python基础
 2. NumPy、Pandas数据处理
 3. Scikit-learn机器学习库
